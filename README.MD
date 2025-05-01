@@ -2,7 +2,7 @@
 
 We primarily worked in Kaggle, using two notebooks to manage all of our code. 
 
-[Working Notebook]()
+[Working Notebook](https://www.kaggle.com/code/apoxieforest/brown-s25-final-project-draft)
 
 [Final Notebook](https://www.kaggle.com/code/apoxieforest/brown-s25-final-notebook)
 
@@ -16,3 +16,7 @@ We never got GitHub properly linked so each group member made Kaggle "commits" i
 ## Reference Project
 
 [oemer](https://github.com/BreezeWhite/oemer)
+
+## Poster
+
+![Poster](poster.png)
