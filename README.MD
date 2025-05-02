@@ -2,7 +2,7 @@
 
 We primarily worked in Kaggle, using two notebooks to manage all of our code. 
 
-[Working Notebook](https://www.kaggle.com/code/apoxieforest/brown-s25-final-project-draft)
+[Working Notebook](https://www.kaggle.com/code/apoxieforest/brown-s25-final-project-draftgit)
 
 [Final Notebook](https://www.kaggle.com/code/apoxieforest/brown-s25-final-notebook)
 
